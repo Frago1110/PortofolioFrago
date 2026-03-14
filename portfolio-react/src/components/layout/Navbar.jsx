@@ -1,6 +1,6 @@
 function Navbar() {
   return (
-    <header>
+    <header className=" hidden">
       <nav>
         <h2>Llario Fragomeni</h2>
         <ul>
